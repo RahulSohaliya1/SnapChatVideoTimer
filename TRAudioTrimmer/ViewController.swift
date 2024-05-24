@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let url = Bundle.main.url(forResource: "Aadat", withExtension: "mp3")
+        let url = Bundle.main.url(forResource: "5_Min", withExtension: "mp3")
         let audioAsset = AVAsset(url: url!)
         trimView.asset = audioAsset
         trimView.delegate = self

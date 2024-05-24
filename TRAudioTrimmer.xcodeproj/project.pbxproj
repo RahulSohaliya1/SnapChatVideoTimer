@@ -19,6 +19,7 @@
 		1D03EFAD28FD53F30069E20D /* TRAudioTrimmerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D03EFAC28FD53F30069E20D /* TRAudioTrimmerView.swift */; };
 		1D03EFB728FD58110069E20D /* TRAudioTrimmerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1D03EFB628FD58110069E20D /* TRAudioTrimmerView.xib */; };
 		1D65F89A28FE7D1900B836EE /* Aadat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D65F89928FE7D1900B836EE /* Aadat.mp3 */; };
+		BD26F3232C009BD40073EC36 /* 5_Min.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BD26F3222C009BD40073EC36 /* 5_Min.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		1D03EFAC28FD53F30069E20D /* TRAudioTrimmerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TRAudioTrimmerView.swift; sourceTree = "<group>"; };
 		1D03EFB628FD58110069E20D /* TRAudioTrimmerView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TRAudioTrimmerView.xib; sourceTree = "<group>"; };
 		1D65F89928FE7D1900B836EE /* Aadat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Aadat.mp3; sourceTree = "<group>"; };
+		BD26F3222C009BD40073EC36 /* 5_Min.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5_Min.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				1D03EF7C28FD4CF30069E20D /* ViewController.swift */,
 				1D03EF7E28FD4CF30069E20D /* Main.storyboard */,
 				1D65F89928FE7D1900B836EE /* Aadat.mp3 */,
+				BD26F3222C009BD40073EC36 /* 5_Min.mp3 */,
 				1D03EF8128FD4CF40069E20D /* Assets.xcassets */,
 				1D03EF8328FD4CF40069E20D /* LaunchScreen.storyboard */,
 				1D65F89B28FEDF3D00B836EE /* TRAudioTrimmerView */,
@@ -224,7 +227,7 @@
 				};
 			};
 			buildConfigurationList = 1D03EF7028FD4CF30069E20D /* Build configuration list for PBXProject "TRAudioTrimmer" */;
-			compatibilityVersion = "Xcode 14.0";
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -249,6 +252,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D03EF8528FD4CF40069E20D /* LaunchScreen.storyboard in Resources */,
+				BD26F3232C009BD40073EC36 /* 5_Min.mp3 in Resources */,
 				1D03EF8228FD4CF40069E20D /* Assets.xcassets in Resources */,
 				1D65F89A28FE7D1900B836EE /* Aadat.mp3 in Resources */,
 				1D03EFB728FD58110069E20D /* TRAudioTrimmerView.xib in Resources */,
